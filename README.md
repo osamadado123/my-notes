@@ -1,4 +1,4 @@
-# my_first_repo
+# my-notes
 
 hello my name is osama  i am a fresh graduate software engineer from al balqaa
 applied university i live in amman and there is **_my gethub account._**
