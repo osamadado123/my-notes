@@ -50,3 +50,4 @@ rewriting your code is a developer's nightmare and it's not always the answer ma
 commenting on your code should not be about what does that code do because it should be simple to know what does the code do otherwise it needs simplification if its hard to simplify the code you can add comment about the code and what it does.
 
 questions don't always answer you sometimes you need for help from another developer 2 minds are better than 1.
+hello i am osama from my branch
